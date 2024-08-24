@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\downloads\\rezervei\\rezervei\\repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\downloads\\rezervei\\rezervei\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\downloads\\rezervei\\rezervei\\object\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,19 +99,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Repositories\\Entities\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Repositories\\Entities\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Entities\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:48:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:40:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Object\\DTOs\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Object\\DTOs\\Mappings\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Object\\DTOs\\Mappings\\MappingProfile.cs",
               "RelativeToolTip": "Object\\DTOs\\Mappings\\MappingProfile.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA0AAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T13:27:00.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Rezervei.csproj",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Rezervei.csproj",
               "RelativeDocumentMoniker": "Rezervei.csproj",
@@ -115,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Object\\DTOs\\Entities\\UserDTO.cs",
               "RelativeDocumentMoniker": "Object\\DTOs\\Entities\\UserDTO.cs",
@@ -127,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -139,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DBContext.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Contexts\\DBContext.cs",
               "RelativeDocumentMoniker": "Contexts\\DBContext.cs",
@@ -151,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserBuilder.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Contexts\\builders\\UserBuilder.cs",
               "RelativeDocumentMoniker": "Contexts\\builders\\UserBuilder.cs",
@@ -163,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Object\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Object\\Models\\UserModel.cs",
