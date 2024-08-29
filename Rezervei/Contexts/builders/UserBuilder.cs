@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Rezervei.Object.Models;
+using Rezervei.Object.Models.Entities;
 
 namespace Rezervei.Contexts.builders
 {

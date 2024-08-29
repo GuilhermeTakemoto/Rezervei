@@ -2755,11 +2755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Rezervei.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Rezervei.csproj",
       "projectName": "Rezervei",
-      "projectPath": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\Rezervei.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Rezervei.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Downloads\\Rezervei\\Rezervei\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

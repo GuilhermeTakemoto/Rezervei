@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
-namespace Rezervei.Object.Models
+namespace Rezervei.Object.Models.Entities
 {
     [Table("users")]
     public class UserModel

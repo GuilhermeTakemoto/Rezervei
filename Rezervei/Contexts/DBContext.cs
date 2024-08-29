@@ -1,13 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Rezervei.Contexts.builders;
-using Rezervei.Object.Models;
+using Rezervei.Object.Models.Entities;
 
 namespace Rezervei.Contexts
 {
-    public class DBContext : DbContext
+    public class AppDBContext : DbContext
     {
         //mapeamento Relacional dos Objetos no Banco de dados
-        public DBContext(DbContextOptions<DBContext> options) : base(options) { }
+        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) { }
         //Conjunto:usuario
         public DbSet<UserModel> Users { get; set; }
 

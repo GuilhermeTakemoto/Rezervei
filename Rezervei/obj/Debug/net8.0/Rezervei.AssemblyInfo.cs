@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rezervei")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e49b584d85c3da6a796d437439665313aa4c4480")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ebaa53a43e4319236da910844426c513a156b02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rezervei")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rezervei")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
