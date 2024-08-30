@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\contracts\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\contracts\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\contracts\\tokensignatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\contracts\\tokensignatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\services\\entities\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:services\\entities\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\contracts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\contracts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\dtos\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\dtos\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\services\\server\\dependenciesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:services\\server\\dependenciesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\utilities\\validatorutilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +59,24 @@
       "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\utilities\\operatorutilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\services\\entities\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:services\\entities\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\dtos\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\dtos\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\rezervei.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:rezervei.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\object\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|solutionrelative:object\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FBC5EF2-A4E4-4992-9603-11A2D7F5C9BA}|Rezervei.csproj|c:\\users\\aluno\\desktop\\rezervei\\rezervei\\contexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,46 +141,99 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAIwK4AAAAJAAAA",
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Token.cs",
+              "RelativeDocumentMoniker": "Object\\Contracts\\Token.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Token.cs",
+              "RelativeToolTip": "Object\\Contracts\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:08:50.755Z",
+              "WhenOpened": "2024-08-30T20:07:52.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Response.cs",
-              "RelativeDocumentMoniker": "Object\\Contracts\\Response.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Response.cs",
-              "RelativeToolTip": "Object\\Contracts\\Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "DocumentIndex": 1,
+              "Title": "TokenSignatures.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\TokenSignatures.cs",
+              "RelativeDocumentMoniker": "Object\\Contracts\\TokenSignatures.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\TokenSignatures.cs",
+              "RelativeToolTip": "Object\\Contracts\\TokenSignatures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T19:54:18.133Z",
+              "WhenOpened": "2024-08-30T20:02:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Login.cs",
+              "RelativeDocumentMoniker": "Object\\Contracts\\Login.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Login.cs",
+              "RelativeToolTip": "Object\\Contracts\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:29:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:18:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:44:38.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Entities\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Entities\\UserService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Entities\\UserService.cs",
+              "RelativeToolTip": "Services\\Entities\\UserService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:02:46.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependenciesInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Server\\DependenciesInjection.cs",
+              "RelativeDocumentMoniker": "Services\\Server\\DependenciesInjection.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Server\\DependenciesInjection.cs",
+              "RelativeToolTip": "Services\\Server\\DependenciesInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:37:24.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ResponseEnum.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\ResponseEnum.cs",
               "RelativeDocumentMoniker": "Object\\Contracts\\ResponseEnum.cs",
@@ -169,20 +246,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ValidatorUtilitie.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Utilities\\ValidatorUtilitie.cs",
               "RelativeDocumentMoniker": "Object\\Utilities\\ValidatorUtilitie.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Utilities\\ValidatorUtilitie.cs",
               "RelativeToolTip": "Object\\Utilities\\ValidatorUtilitie.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCMAAAAVAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T18:56:03.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Entities\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Object\\DTOs\\Entities\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Entities\\UserDTO.cs",
+              "RelativeToolTip": "Object\\DTOs\\Entities\\UserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:15:17.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:40:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Entities\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Entities\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Entities\\UserRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:48:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:55:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "OperatorUtilitie.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Utilities\\OperatorUtilitie.cs",
               "RelativeDocumentMoniker": "Object\\Utilities\\OperatorUtilitie.cs",
@@ -195,33 +324,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Entities\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\Entities\\UserService.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Entities\\UserService.cs",
-              "RelativeToolTip": "Services\\Entities\\UserService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAA0AAAA",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAIwK4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T18:02:46.185Z",
+              "WhenOpened": "2024-08-29T20:08:50.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T17:55:49.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -234,46 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Entities\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Entities\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Entities\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\Entities\\UserRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:48:01.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:40:40.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Object\\DTOs\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "Object\\DTOs\\Mappings\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:27:00.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Rezervei.csproj",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Rezervei.csproj",
               "RelativeDocumentMoniker": "Rezervei.csproj",
@@ -286,20 +363,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Entities\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Object\\DTOs\\Entities\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Entities\\UserDTO.cs",
-              "RelativeToolTip": "Object\\DTOs\\Entities\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "DocumentIndex": 17,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Response.cs",
+              "RelativeDocumentMoniker": "Object\\Contracts\\Response.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Contracts\\Response.cs",
+              "RelativeToolTip": "Object\\Contracts\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:15:17.668Z",
+              "WhenOpened": "2024-08-29T19:54:18.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Object\\DTOs\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Object\\DTOs\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:27:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Object\\Models\\Entities\\UserModel.cs",
               "RelativeDocumentMoniker": "Object\\Models\\Entities\\UserModel.cs",
@@ -312,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -320,11 +410,12 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-24T12:49:04.838Z"
+              "WhenOpened": "2024-08-24T12:49:04.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "DBContext.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Contexts\\DBContext.cs",
               "RelativeDocumentMoniker": "Contexts\\DBContext.cs",
@@ -337,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "UserBuilder.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Contexts\\builders\\UserBuilder.cs",
               "RelativeDocumentMoniker": "Contexts\\builders\\UserBuilder.cs",

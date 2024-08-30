@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Rezervei.Object.Contracts;
 using Rezervei.Object.DTOs.Entities;
 using Rezervei.Object.Models.Entities;
 using Rezervei.Repositories.Interfaces;
@@ -41,11 +42,29 @@ namespace Rezervei.Services.Entities
             return _mapper.Map<IEnumerable<UserDTO>>(usersModel);
         }
 
+
         public async Task<UserDTO> GetById(int id)
         {
             var userModel = await _userRepository.GetById(id);
 
             if (userModel is not null) userModel.PasswordUser = "";
+            return _mapper.Map<UserDTO>(userModel);
+        }
+
+        public async Task<UserDTO> GetByEmail(string email)
+        {
+            var userModel = await _userRepository.GetByEmail(email);
+
+            if (userModel != null) userModel.PasswordUser = "";
+            return _mapper.Map<UserDTO>(userModel);
+        }
+
+
+        public async Task<UserDTO> Login(Login login)
+        {
+            var userModel = await _userRepository.Login(login);
+
+            if (userModel != null) userModel.PasswordUser = "";
             return _mapper.Map<UserDTO>(userModel);
         }
 

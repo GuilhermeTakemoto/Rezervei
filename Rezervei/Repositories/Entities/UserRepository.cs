@@ -1,11 +1,16 @@
-﻿using Rezervei.Repositories.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
 using Rezervei.Contexts;
-using Microsoft.EntityFrameworkCore;
+using Rezervei.Object.Contracts;
+using Rezervei.Object.DTOs.Entities;
 using Rezervei.Object.Models.Entities;
+using Rezervei.Repositories.Interfaces;
+
+
 namespace Rezervei.Repositories.Entities
 {
     public class UserRepository : IUserRepository
     {
+
         private readonly AppDBContext _dbContext;
 
         public UserRepository(AppDBContext dbContext)
@@ -23,11 +28,20 @@ namespace Rezervei.Repositories.Entities
             return await _dbContext.Users.AsNoTracking().FirstOrDefaultAsync(u => u.Id == id);
         }
 
+        public async Task<UserModel> GetByEmail(string email)
+        {
+            return await _dbContext.Users.AsNoTracking().FirstOrDefaultAsync(u => u.EmailUser == email);
+        }
+
+        public async Task<UserModel> Login(Login login)
+        {
+            return await _dbContext.Users.AsNoTracking().FirstOrDefaultAsync(u => u.EmailUser == login.Email && u.PasswordUser == login.Password);
+        }
+
         public async Task<UserModel> Create(UserModel userModel)
         {
             _dbContext.Users.Add(userModel);
             await _dbContext.SaveChangesAsync();
-
             return userModel;
         }
 
@@ -38,15 +52,22 @@ namespace Rezervei.Repositories.Entities
 
             return userModel;
         }
-
         public async Task<UserModel> Delete(UserModel userModel)
         {
             _dbContext.Users.Remove(userModel);
             await _dbContext.SaveChangesAsync();
 
             return userModel;
-
         }
 
+        public Task<UserModel> Login(string login)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task Create(UserDTO userModel)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
