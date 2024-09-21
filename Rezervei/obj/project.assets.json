@@ -5029,11 +5029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Rezervei.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\reservei\\Rezervei\\Rezervei\\Rezervei.csproj",
       "projectName": "Rezervei",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\Rezervei.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Downloads\\reservei\\Rezervei\\Rezervei\\Rezervei.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\Rezervei\\Rezervei\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Downloads\\reservei\\Rezervei\\Rezervei\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5044,6 +5044,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5117,7 +5118,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

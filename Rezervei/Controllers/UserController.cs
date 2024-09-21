@@ -5,9 +5,7 @@ using Rezervei.Object.Utilities;
 using Rezervei.Services.Interfaces;
 using System.Dynamic;
 using System.Diagnostics;
-using Rezervei.Object.Contracts;
-using Rezervei.Object.DTOs.Entities;
-using Rezervei.Services.Interfaces;
+using ReserveiAPI.Objects.Contracts;
 
 namespace Rezervei.Controllers
 {

@@ -9,7 +9,7 @@ namespace Rezervei.Repositories.Interfaces
         Task<IEnumerable<UserModel>> GetAll();
         Task<UserModel> GetById(int id);
         Task<UserModel> GetByEmail(string email);
-        Task<UserModel> Login(string login);
+        Task<UserModel> Login(Login login);
         Task<UserModel> Create(UserModel userModel);
         Task<UserModel> Update(UserModel userModel);
         Task<UserModel> Delete(UserModel userModel);
